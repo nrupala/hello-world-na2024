@@ -16,3 +16,5 @@ When you open a pull request, you're proposing your changes and requesting that 
 Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in different colors.
 As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
 In this step, you'll open a pull request in your own repository and then merge it yourself. It's a great way to practise the GitHub flow before working on larger projects.
+Merging a Pull request: https://docs.github.com/en/get-started/start-your-journey/hello-world#step-5-merge-your-pull-request
+When you are ready to merge the pulled changes to main branch this is done to merge the changes to main branch.
